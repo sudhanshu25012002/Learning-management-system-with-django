@@ -152,5 +152,5 @@ DEFAULT_FROM_EMAIL = "Django"
 EMAIL_HOST_USER =  "sr25012002new@gmail.com"
 EMAIL_HOST_PASSWORD = "cspagvhqttursqlk"
 
-KEY_ID = "rzp_test_YJBXNlTk3aEt8i"
-KYE_SECRET = "v7ctEdMnDucdeQ7yK1Jevn1J"
+KEY_ID = "YOUR_API_ID"
+KYE_SECRET = "YOUR_API_KEY"
